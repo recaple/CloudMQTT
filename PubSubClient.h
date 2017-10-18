@@ -7,11 +7,11 @@
 #ifndef PubSubClient_h
 #define PubSubClient_h
 
-#include </mnt/data/root/pubsubclient/src/Arduino.h>
-#include "/mnt/data/root/pubsubclient/src/IPAddress.h"
-#include "/mnt/data/root/pubsubclient/src/Client.h"
-#include "/mnt/data/root/pubsubclient/src/Stream.h"
-#include "/usr/lib/avr/include/stdint.h"
+#include "/root/pubsubclient/src/CloudMQTT/Arduino.h"
+#include "/root/pubsubclient/src/CloudMQTT/IPAddress.h"
+#include "/root/pubsubclient/src/CloudMQTT/Client.h"
+#include "/root/pubsubclient/src/CloudMQTT/Stream.h"
+#include "/root/pubsubclient/src/CloudMQTT/stdint.h"
 
 #define MQTT_VERSION_3_1      3
 #define MQTT_VERSION_3_1_1    4

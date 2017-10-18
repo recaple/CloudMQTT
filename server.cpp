@@ -1,6 +1,6 @@
 #include <iostream>
-#include </root/pubsubclient/src/Ethernet.h>
-#include </mnt/data/root/pubsubclient/src/PubSubClient.h>
+#include </root/pubsubclient/src/CloudMQTT/Ethernet.h>
+#include </root/pubsubclient/src/CloudMQTT/PubSubClient.h>
 using namespace std;
 const char *mqtt_server = "server";
 const int mqtt_port = 11140;
